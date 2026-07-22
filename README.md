@@ -20,3 +20,15 @@ The ultrasonic sensor continuously measures the distance between the car and nea
 
 The Arduino UNO processes the distance data received from the ultrasonic sensor. When an obstacle is detected, the Arduino determines a clear direction and controls the car's movement accordingly. The L298N motor driver controls the speed and direction of the DC motors, allowing the car to move autonomously and avoid obstacles.
 
+# FEATURES:
+-Autonomous Navigation
+-Obstacle Detection
+-Automatic Obstacle Avoidance
+-Servo-Based Scanning 
+-Real-Time Decision Making 
+-Motor Speed and Direction Control 
+
+## Future Improvements
+- Bluetooth control
+- Smartphone control
+- Camera-based navigation
