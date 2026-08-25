@@ -8,7 +8,7 @@ An autonomous obstacle-avoiding car that uses an ultrasonic sensor mounted on a 
 -Ultrasonic sensor 
 -Servo motor
 -L298N motor drive
--2x24000 mah lithium battery (3.7v)
+-2 x 24000 mah lithium battery (3.7v)
 -Battery holder
 -4xDC motor
 -4x wheels 
